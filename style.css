@@ -1,0 +1,13 @@
+p,h5,h6{
+    text-align: center;
+}
+button{
+    margin-left: 50px;
+}
+.card{
+    margin: 20px;
+    background: gray;
+}
+body{
+    background-color: brown;
+}
